@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x1d54B2d7e2b8C6F2F3A84914E8720595a579ECe4',
+        href: 'https://pancakeswap.info/token/0xCd33351638a9E9f9E507d3448e239063C69C6b99',
       },
       /* {
         label: 'CoinGecko',
@@ -63,7 +63,7 @@ const config: MenuEntry[] = [
       }, */
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x35f4e1af8d76f33ce8b051b6c15050afab9e83e2',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x3bb211e05ea6f489d45404d011df7f8ee5c8c2e1',
       },
     ],
   },
